@@ -9,4 +9,4 @@ The Fuzzy core translates adjectives related to sensory concepts into sound-modi
 
 ---
 
-Built with C++, RackAFX
+Built with C++, RackAFX7
